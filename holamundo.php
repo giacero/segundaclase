@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Prueba de PHP </title>
+	<title>Hola Mundo</title>
 	
 <body>
 

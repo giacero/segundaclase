@@ -5,6 +5,6 @@
         <body>
             <?php echo '<p>Hola Mundo</p>'; ?>
             <br />
-            Hola Universo.
+            Hola Universo 2.
         </body>
 </html>

@@ -1,9 +1,0 @@
-<html>
-    <head>
-      <title>SEGURIDAD</title>
-    </head>
-  <body>
-    <h1>Segurity</h1>
-    <p>SEGURITY</p>
-  </body>
-</html>
